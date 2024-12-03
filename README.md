@@ -1,5 +1,5 @@
 # About Me
-Hi! I'm a **second-year student** at the **University of Toronto**, pursuing a **B.Sc. in Psychology and Cognitive Science**. My academic interests lie at the intersection of psychology, cognitive science, and mental health research.
+Hi! My name is Nehir, and I'm a **second-year student** at the **University of Toronto**, pursuing a **B.Sc. in Psychology and Cognitive Science**. My academic interests lie at the intersection of psychology, cognitive science, and mental health research.
 
 ![Hello There Gif](/assets/img/200.gif)
 
