@@ -1,8 +1,6 @@
 # About Me
 Hi! My name is Nehir, and I'm a **second-year student** at the **University of Toronto**, pursuing a **B.Sc. in Psychology and Cognitive Science**. My academic interests lie at the intersection of psychology, cognitive science, and mental health research.
 
-![Hello There Gif](/assets/img/200.gif)
-
 ## Education	 			        		
 - B.Sc., Psychology and Cognitive Science | The University of Toronto (_May 2026 (Expected)_)
 
@@ -12,15 +10,16 @@ Hi! My name is Nehir, and I'm a **second-year student** at the **University of T
 - Previous research has shown that self-compassion can reduce anxiety by alleviating self-criticism, but limited research explores whether gender moderates this effect (Einstein et al., 2022).
 - Inspired by these questions, I investigated how self-compassion impacts anxiety in high school students and whether gender moderates this relationship.
 - I used data collected by Einstein and colleagues: 
-  - (_916 participants ages 12-16_)
+  - (_916 participants ages 12-16_ provided self-report data online in their school classrooms)
   - (_Measures included the Self-Compassion Scale (Raes et al., 2011) and Spence Children’s Anxiety Scale_)
   - [dataset](https://figshare.mq.edu.au/articles/dataset/Abbreviated_FOMO_and_social_media_dataset/20188298/1?file=36091265)
 
 I analyzed these relationships using moderation analysis:
   - [data analysis code](https://github.com/nehirarpat/Research/blob/main/code.md)
 
-![Self-Compassion vs Anxiety Graph](assets/img/Self-Compassion vs Anxiety Graph.jpg)
-![Self-Compassion vs Self-Criticism Graph](assets/img/Self-Compassion vs Self-Criticism Graph.jpg)
+![Self-Compassion vs Anxiety Graph] (assets/img/Self-Compassion vs Anxiety Graph.jpg)
+
+![Self-Compassion vs Self-Criticism Graph] (assets/img/Self-Compassion vs Self-Criticism Graph.jpg)
 
 - The relationship between self-compassion and anxiety levels revealed a complex, gender-dependent pattern.
 - For males, higher levels of self-compassion were associated with an increase in anxiety, contrary to the expected protective effect.
