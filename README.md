@@ -7,8 +7,8 @@ Hi! My name is Nehir, and I'm a **second-year student** at the **University of T
 # Projects
 ### Self-Compassion and Anxiety: A Gender-Dependent Analysis
 
-- Previous research has shown that self-compassion can reduce anxiety by alleviating self-criticism, but limited research explores whether gender moderates this effect (Einstein et al., 2022).
-- Inspired by these questions, I investigated how self-compassion impacts anxiety in high school students and whether gender moderates this relationship.
+- Previous research has shown that self-compassion can reduce anxiety by alleviating self-criticism, but limited research explores gender differences (Einstein et al., 2022).
+- Inspired by these questions, I investigated how self-compassion impacts anxiety in high school students and whether this relationship differs between genders.
 - I used data collected by Einstein and colleagues: 
   - (_916 participants ages 12-16_ provided self-report data online in their school classrooms)
   - (_Measures included the Self-Compassion Scale (Raes et al., 2011) and Spence Children’s Anxiety Scale_)
@@ -26,5 +26,5 @@ I analyzed these relationships using moderation analysis:
   - This surprising outcome was explained by the role of self-criticism: as self-compassion increased, so did self-criticism, suggesting that        males may interpret self-compassion in a way that exacerbates their internal self-evaluative tendencies.
 - For females, no significant relationship was found between self-compassion and anxiety. Additionally, self-compassion had no measurable impact on self-criticism in this group.
   
-- These findings highlight an important gender difference in how self-compassion operates and suggest that the mechanisms underlying its effects may vary based on gender. Overall, the results challenge the assumption that self-compassion universally reduces anxiety.
-- Instead, they underscore the need for tailored interventions that account for gender-specific responses to self-compassion practices. For males, approaches that address the link between self-compassion and self-criticism may be particularly important to ensure its beneficial effects.
+- These findings highlight an important gender difference in how self-compassion operates and suggest that the mechanisms underlying its effects may vary based on gender.
+- Overall, the results challenge the assumption that self-compassion universally reduces anxiety and underscore the need for tailored interventions that account for gender-specific responses to self-compassion practices. For males, approaches that address the link between self-compassion and self-criticism may be particularly important to ensure its beneficial effects.
