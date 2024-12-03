@@ -17,9 +17,9 @@ Hi! My name is Nehir, and I'm a **second-year student** at the **University of T
 I analyzed these relationships using moderation analysis:
   - [data analysis code](https://github.com/nehirarpat/Research/blob/main/code.md)
 
-![Self-Compassion vs Anxiety Graph] (assets/img/Self-Compassion vs Anxiety Graph.jpg)
+![Self-Compassion vs Anxiety Graph](assets/img/Self-Compassion vs Anxiety Graph.jpg)
 
-![Self-Compassion vs Self-Criticism Graph] (assets/img/Self-Compassion vs Self-Criticism Graph.jpg)
+![Self-Compassion vs Self-Criticism Graph](assets/img/Self-Compassion vs Self-Criticism Graph.jpg)
 
 - The relationship between self-compassion and anxiety levels revealed a complex, gender-dependent pattern.
 - For males, higher levels of self-compassion were associated with an increase in anxiety, contrary to the expected protective effect.
