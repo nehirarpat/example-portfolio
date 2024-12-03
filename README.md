@@ -9,10 +9,9 @@ Hi! My name is Nehir, and I'm a **second-year student** at the **University of T
 
 - Previous research has shown that self-compassion can reduce anxiety by alleviating self-criticism, but limited research explores gender differences (Einstein et al., 2022).
 - Inspired by these questions, I investigated how self-compassion impacts anxiety in high school students and whether this relationship differs between genders.
-- I used data collected by Einstein and colleagues: 
+- I used data collected by Einstein and colleagues: [dataset](https://figshare.mq.edu.au/articles/dataset/Abbreviated_FOMO_and_social_media_dataset/20188298/1?file=36091265)
   - (_916 participants ages 12-16_ provided self-report data online in their school classrooms)
   - (_Measures included the Self-Compassion Scale (Raes et al., 2011) for self-compassion and self-criticism, Spence Children’s Anxiety Scale for generalized anxiety, and self-report for gender categorized as male and female_)
-  - [dataset](https://figshare.mq.edu.au/articles/dataset/Abbreviated_FOMO_and_social_media_dataset/20188298/1?file=36091265)
 
 I analyzed these relationships using moderation analysis:
   - [data analysis code](https://github.com/nehirarpat/Research/blob/main/code.md)
